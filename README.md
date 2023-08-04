@@ -16,7 +16,7 @@
 
 ---
 
-## 📝 Table of Contents
+## 📝 Sumário:
 
 - [Sobre o Repo](#about)
 - [Instalação](#built_using)
