@@ -22,7 +22,7 @@
 - [Instalação](#built_using)
 - [Autores](#authors)
 
-## 🧐 Sobre o Repo: <a name = "about">Aula Prática</a>
+## 🧐 Sobre o Repo: <a name = "about">Aula Prática de Gherking</a>
 
 Escrita em Gherking para viés de aprendizagem em Qualidade de Software. Aprendido no curso "Gherking do Básico ao Avançado" da Mentora Priscila Caimi.
 
